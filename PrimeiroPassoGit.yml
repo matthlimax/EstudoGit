@@ -1,3 +1,8 @@
 #Primeiros passos utilizando o comando merge para unificar duas branchs
-#Projeto 1
-#branch main
+#Arquivo Projeto 1
+#branch bugfix
+#Criei duas branchs
+#alterei os arquivos dentro de ambas
+#utilizei o comando commit para atualizar
+#utilizei o comando push para enviar ao github
+#tentando fazer o merge
