@@ -1,2 +1,3 @@
 # EstudoGit
-teste 1
+Realizando teste com comando merge para unificar duas branchs
+
